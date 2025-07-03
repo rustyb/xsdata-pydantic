@@ -25,7 +25,7 @@ classifiers = [
     "Topic :: Text Processing :: Markup :: XML",
 ]
 keywords = ["xsd", "wsdl", "schema", "dtd", "binding", "xml", "json", "dataclasses", "generator", "cli", "pydantic"]
-requires-python = ">=3.8"
+requires-python = ">=3.11"
 dependencies = [
     "pydantic>=2.6",
     "xsdata>=24.5",
